@@ -1,8 +1,8 @@
-# Etapas da Atividade
+# Atividade 👥 
 
-Nesta atividade, vocês irão explorar as principais métricas de desempenho dos próprios computadores, usando ferramentas disponíveis no sistema operacional para coletar e registrar informações. O objetivo é compreender como essas métricas impactam o desempenho e a eficiência dos computadores, aplicando o conhecimento em situações práticas.
+Nesta atividade, vocês irão explorar as principais métricas de desempenho dos próprios computadores, usando ferramentas disponíveis no sistema operacional para coletar e registrar informações. O objetivo é compreender como essas métricas impactam o desempenho e a eficiência dos computadores, aplicando o conhecimento em situações práticas. 🧠
 
-## 1. Métricas de Desempenho
+## 1. Métricas de Desempenho 📊 
 
  - Throughput
  - Latência
@@ -25,7 +25,7 @@ ping www.google.com
 ```` 
 Registre o tempo médio de resposta.
 
-### Tempo de Execução de um Programa:
+### Tempo de Execução de um Programa: 🕒
 
  - Escolher um programa simples para ser executado e utilizar o comando time (no Linux) ou cronômetro manual para medir o tempo de abertura.
  - Anotar o tempo necessário para o programa executar completamente.
@@ -42,3 +42,10 @@ Registre o tempo médio de resposta.
 
 ### Velocidade de Clock:
  - No Gerenciador de Tarefas ou usando o comando lscpu (Linux), registrar a velocidade de clock atual do processador.
+
+## 3. Relatório 📝 
+
+ - Identificar quais máquinas têm melhor desempenho e qual métrica se destacou (por exemplo, uma máquina com maior velocidade de clock ou menor latência).
+ - Observar como as características de hardware afetam o desempenho em diferentes métricas.
+
+   
