@@ -1,6 +1,8 @@
 # Etapas da Atividade
 
-## 1. Introdução às Métricas 
+Nesta atividade, vocês irão explorar as principais métricas de desempenho dos próprios computadores, usando ferramentas disponíveis no sistema operacional para coletar e registrar informações. O objetivo é compreender como essas métricas impactam o desempenho e a eficiência dos computadores, aplicando o conhecimento em situações práticas.
+
+## 1. Métricas de Desempenho
 
  - Throughput
  - Latência
