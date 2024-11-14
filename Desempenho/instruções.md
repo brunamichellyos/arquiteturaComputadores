@@ -16,6 +16,7 @@ Nesta atividade, vocês irão explorar as principais métricas de desempenho dos
 ### Throughput (Vazão):
 
 - Medir a velocidade de download ou upload da rede, usando uma ferramenta como o Speedtest. Registre os resultados em Mbps (Megabits por segundo).
+- Pode ser usado o site: https://fast.com/pt/
 
 ### Latência:
 
